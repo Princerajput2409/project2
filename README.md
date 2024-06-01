@@ -1,4 +1,4 @@
 # New Project
 
 This project created from local system.
-Created by Prince Rajput.
+Created by Prince Rajput
